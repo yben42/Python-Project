@@ -1,6 +1,6 @@
 # Voting Rules Implementation – COMP517 Coursework
 
-This project was developed as part of COMP517 (Advanced Algorithm Design) in the MSc Data Science and AI program at the University of Liverpool. It focuses on implementing core voting systems from computational social choice theory using Python and object-oriented programming principles.
+This project was developed as part of COMP517 in the MSc Data Science and AI program at the University of Liverpool. It focuses on implementing core voting systems from computational social choice theory using Python and object-oriented programming principles.
 
 ## Voting Rules Implemented
 - **Dictatorship** – Selects the top-ranked alternative of a designated agent.
@@ -29,7 +29,7 @@ The voting functions query this interface and are fully modular, allowing for un
 This project was submitted as assessed coursework and is shared for educational and portfolio use only. Please do not copy, reuse, or submit this code for academic credit elsewhere.
 
 ## Attribution
-**Module:** COMP517 – Advanced Algorithm Design  
+**Module:** COMP517   
 **Program:** MSc Data Science and AI  
 **Institution:** University of Liverpool  
 **Author:** Benjamin Yiu  
