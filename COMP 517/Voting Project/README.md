@@ -2,10 +2,6 @@
 
 This project was developed as part of COMP517 (Advanced Algorithm Design) in the MSc Data Science and AI program at the University of Liverpool. It focuses on implementing core voting systems from computational social choice theory using Python and object-oriented programming principles.
 
-## About the Module
-
-COMP517 explores advanced algorithm design, covering topics such as preference aggregation, decision theory, and algorithmic fairness. This assignment specifically required implementing voting rules that determine outcomes based on agents’ ranked preferences.
-
 ## Voting Rules Implemented
 - **Dictatorship** – Selects the top-ranked alternative of a designated agent.
 - **Scoring Rule** – Applies a weighted score vector to preferences and selects the highest scoring candidate.
@@ -14,7 +10,7 @@ COMP517 explores advanced algorithm design, covering topics such as preference a
 - **Borda Count** – Assigns decreasing scores from top to bottom rank.
 - **STV (Single Transferable Vote)** – Eliminates least-favored candidates in rounds until one remains.
 
-Each rule includes tie-breaking logic using a selected agent’s ranking and built-in error handling.
+Each rule includes tie-breaking logic using a selected agent’s ranking and built-in error handling. A test script was created to test functionality. 
 
 ## System Design
 
